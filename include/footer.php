@@ -18,12 +18,11 @@
           </div><!-- Col end -->
 
           <div class="col-lg-5 col-md-6 footer-widget mt-5 mt-md-0">
-            <h3 class="widget-title">Mentions Légales</h3>
+            <h3 class="widget-title">Notre Adresse</h3>
             <div class="working-hours">
-              S.A.R.L. au capital de 20 000 Euro <br>
-              287, Rue de Barbizon 77350 Le Mée sur Seine  - FRANCE. <br>
-              SIRET 49493905100012 - A.P.E. 514N <br>
-              N° TVA : FR 44 494 93 90 51
+              40, Avenue du Havre, Base Industrielle
+              <br>Pointe-Noire
+              <br>République du Congo
             </div>
           </div><!-- Col end -->
 

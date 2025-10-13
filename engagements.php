@@ -59,7 +59,7 @@
               <h2 class="mb-0">
                 <button class="btn btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne"
                   aria-expanded="true" aria-controls="collapseOne">
-                  Expertise CACTUS Négoce
+                  NOS ENGAGEMENTS
                 </button>
               </h2>
             </div>
@@ -67,7 +67,16 @@
             <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
               data-parent="#construction-accordion">
               <div class="card-body">
-                Vous avez une question ou un doute sur un produit ? Appelez nos experts pour qu'ils vous conseillent et vous guident dans votre choix. Une solution adaptée à toutes vos demandes.
+                <ul>
+                  <li>Qualité et conformité : produits certifiés et fiables.</li>
+                  <li>Sécurité : protection des utilisateurs, respect des normes médicales et HSE.</li>
+                  <li>Service : assistance technique, maintenance et suivi après-vente.</li>
+                  <li>Disponibilité : rapidité et continuité d’approvisionnement.</li>
+                  <li>Éthique : transparence, intégrité et respect des règles.</li>
+                  <li>Formation : accompagnement des utilisateurs pour une bonne utilisation.</li>
+                  <li>Responsabilité : respect de l’environnement.</li>
+                  <li>Partenariat : relation de confiance et satisfaction durable des clients.</li>
+                </ul>
               </div>
             </div>
           </div>

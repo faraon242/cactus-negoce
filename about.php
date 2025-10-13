@@ -72,7 +72,7 @@
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Leadership</h2>
+                          <h2 class="box-slide-title">Qualité</h2>
                       </div>    
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Relationships</h2>
+                          <h2 class="box-slide-title">Conformité</h2>
                       </div>    
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Performance</h2>
+                          <h2 class="box-slide-title">Sécurité</h2>
                       </div>    
                     </div>
                 </div>

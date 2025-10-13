@@ -62,7 +62,7 @@
           </span>
           <div class="ts-service-box-content">
             <h4>Visitez notre bureau</h4>
-            <p>XXXX XXX XX</p>
+            <p>40 Avenue du Havre, Base Industrielle - Pointe-Noire, République du Congo</p>
           </div>
         </div>
       </div><!-- Col 1 end -->

@@ -4,6 +4,12 @@
   <title>Cactus Négoce</title>
   <?php @include('../include/head.php'); ?>
 </head>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 <body>
 
 <div class="body-inner">
@@ -37,10 +43,12 @@
   <div class="container text-center">
 
     <div class="text-center mb-4">
-      <h4 class="section-title">
+      <blockquote>
+      <p>
         Cactus Négoce est fier de vous accompagner dans le respect dans votre démarche de qualité et de contribuer ainsi à la protection de vos équipes.
-        Vous trouverez dans cette rubrique, l’ensemble de nos équipements de protection individuelle.
-      </h4>
+        <br>Vous trouverez dans cette rubrique, l’ensemble de nos équipements de protection individuelle.
+      </p>
+      </blockquote>
     </div>
 
     <div class="row">
@@ -68,7 +76,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;epi&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/equipement-de-protection-individuelle.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -76,7 +84,7 @@
                     Equipements de protection individuel
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/epi-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -86,7 +94,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;prevention&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/extincteur.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -94,7 +102,7 @@
                     Prevention
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/prevention-page.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -104,7 +112,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;pe&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/protection-environnement.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -112,7 +120,7 @@
                     Protection environnement
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/protection-environnement-page.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

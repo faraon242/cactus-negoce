@@ -4,6 +4,13 @@
   <title>Cactus Négoce</title>
   <?php @include('../include/head.php'); ?>
 </head>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
+
 <body>
 
 <div class="body-inner">
@@ -37,10 +44,12 @@
   <div class="container text-center">
 
     <div class="text-center mb-4">
-      <h4 class="section-title">
-        Du diagnostic généraliste au diagnostic spécialisé, retrouvez les appareils et outils dont vous avez besoin. 
-        Cactus Négoce vous propose ainsi, des spéculums, stéthoscopes, tensiomètres et autres otoscopes. Mais également une gamme complète de tests rapides, ainsi que des ECG.
-      </h4>
+      <blockquote>
+        <p>
+          Du diagnostic généraliste au diagnostic spécialisé, retrouvez les appareils et outils dont vous avez besoin. 
+          Cactus Négoce vous propose ainsi, des spéculums, stéthoscopes, tensiomètres et autres otoscopes. Mais également une gamme complète de tests rapides, ainsi que des ECG.
+        </p>
+      </blockquote>
     </div>
 
     <div class="row">
@@ -54,14 +63,14 @@
             <input type="radio" name="shuffle-filter" id="ecg" value="ecg">ECG
           </label>
           <label for="oos">
-            <input type="radio" name="shuffle-filter" id="oos" value="oos">Oto, Ophtalmo/scope
+            <input type="radio" name="shuffle-filter" id="oos" value="oos">Oto, Ophtalmoscope
           </label>
           <label for="pesage">
             <input type="radio" name="shuffle-filter" id="pesage" value="pesage">Pesage
           </label>
-          <label for="speculums">
+          <!--label for="speculums">
             <input type="radio" name="shuffle-filter" id="speculums" value="speculums">Spéculums
-          </label>
+          </label-->
           <label for="stethoscopes">
             <input type="radio" name="shuffle-filter" id="stethoscopes" value="stethoscopes">Stéthoscopes
           </label>
@@ -83,7 +92,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;ecg&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/egc.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -91,7 +100,7 @@
                     ECG
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ecg-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -101,15 +110,15 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;oos&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/oto-ophtalmoscope-ri-mini-couleur-noire.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    Oto, Ophtalmo/scope
+                    Oto/Ophtalmo/Scope
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ophtamoscope-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -119,7 +128,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;pesage&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/pesage-balance-laboratoire.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -127,17 +136,17 @@
                     Pesage
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/pesage-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;speculums&quot;]">
+          <!--div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;speculums&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/speculum-jetable.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -150,12 +159,12 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div-->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;stethoscopes&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/stethoscopes.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -163,7 +172,7 @@
                     Stéthoscopes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/stethoscopes-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -173,7 +182,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;tensiometres&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/tensiometres.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -181,7 +190,7 @@
                     Tensiomètres
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/tensiometres-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -191,7 +200,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;thermometre&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/Thermometer.avif" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -199,7 +208,7 @@
                     Thermomètres
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/thermometres-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -209,7 +218,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;tests&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/categories/tests-et-autres.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -217,7 +226,7 @@
                     Tests & autres
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/tests-autres-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

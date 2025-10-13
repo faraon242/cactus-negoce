@@ -87,7 +87,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">TROUSSES, SACS ET MALLETTES MEDICALES</a>
+                    <a href="sous-categories/trousses.php" class="d-inline-block">TROUSSES, SACS ET MALLETTES MEDICALES</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -102,7 +102,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">BALANCES ET APPAREILS DE MESURE</a>
+                    <a href="sous-categories/balances.php" class="d-inline-block">BALANCES ET APPAREILS DE MESURE</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -117,7 +117,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">APPAREILS ET INSTRUMENTS VETERINAIRES </a>
+                    <a href="sous-categories/appareils-veterinaires.php" class="d-inline-block">APPAREILS ET INSTRUMENTS VETERINAIRES </a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -132,7 +132,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">LOUPES, VISION ET ENDOSCOPIE</a>
+                    <a href="sous-categories/loupes-endoscopie.php" class="d-inline-block">LOUPES, VISION ET ENDOSCOPIE</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -147,7 +147,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">ELECTROCHIRURGIE ET CAUTERETS</a>
+                    <a href="sous-categories/electrochirurgie-cauteres.php" class="d-inline-block">ELECTROCHIRURGIE ET CAUTERETS</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -162,7 +162,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">PHYSIOTHERAPIE - NEBULISEURS - ASPIRATEURS</a>
+                    <a href="sous-categories/physiotherapie.php" class="d-inline-block">PHYSIOTHERAPIE - NEBULISEURS - ASPIRATEURS</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -172,12 +172,12 @@
           <div class="latest-post">
               <div class="latest-post-media">
                 <a href="#" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="images/categories/bien-etre.jpg" alt="img" style="width: 350px; height: 250px;">
+                    <img loading="lazy" class="img-fluid" src="images/categories/gynaecology-proctology.jpg" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">BIEN ÊTRE ET AIDE A LA VIE</a>
+                    <a href="sous-categories/gynecologie-proctologie.php" class="d-inline-block">GYNECOLOGIE ET PROCTOCOLOGIE</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -192,7 +192,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">AUDIOMETRIE ET SPIROMETRIE</a>
+                    <a href="sous-categories/audiometrie-spirometrie.php" class="d-inline-block">AUDIOMETRIE ET SPIROMETRIE</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -207,7 +207,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">ECLAIRAGE MEDICAL </a>
+                    <a href="sous-categories/eclairage-medical.php" class="d-inline-block">ECLAIRAGE MEDICAL </a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -222,7 +222,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">EGC, MONITEURS ET ULTRASONS</a>
+                    <a href="sous-categories/egc.php" class="d-inline-block">EGC, MONITEURS ET ULTRASONS</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->

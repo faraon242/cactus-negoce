@@ -57,7 +57,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">i HEALTH/PRODUITS SANS FIL POUR LE SUIVI SANTE </a>
+                    <a href="sous-categories/i-health.php" class="d-inline-block">i HEALTH/PRODUITS SANS FIL POUR LE SUIVI SANTE </a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -72,7 +72,7 @@
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="#" class="d-inline-block">TESTS DE DIAGNOSTIC - LABORATOIRE </a>
+                    <a href="sous-categories/test-diagnostic-laboratoire.php" class="d-inline-block">TESTS DE DIAGNOSTIC - LABORATOIRE </a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
