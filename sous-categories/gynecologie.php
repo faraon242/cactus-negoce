@@ -75,7 +75,7 @@
                     Appareils
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/appareils-page-1.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
