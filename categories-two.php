@@ -67,7 +67,7 @@
           <div class="latest-post">
               <div class="latest-post-media">
                 <a href="#" class="latest-post-img">
-                    <img loading="lazy" class="img-fluid" src="images/categories/soin-aide.jpg" alt="img" style="width: 350px; height: 250px;">
+                    <img loading="lazy" class="img-fluid" src="images/categories/soins-mobilite-aide-personne.png" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">

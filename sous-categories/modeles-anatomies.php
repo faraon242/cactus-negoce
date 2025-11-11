@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Modèle d'anatomie humaine</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 
 <div class="body-inner">
 
@@ -35,14 +41,6 @@
 
 <section id="main-container" class="main-container">
   <div class="container text-center">
-
-    <div class="text-center mb-4">
-      <h4 class="section-title">
-        L'anatomie humaine est l'étude du corps dans toutes ses composantes et selon différentes régions : la tête et le cou, la région dorsale et le système nerveux central, le thorax, l'abdomen, le bassin, les membres.
-        Véritable atlas du corps humain, l'anatomie détaille chaque organe, chaque os, etc., mais aussi leur position au travers de dizaines de planches portant sur le squelette, les muscles, le système cardio-vasculaire, nerveux ou lymphatique, les appareils digestif, respiratoire, reproducteur et urinaire. 
-        CACTUS NEGOCE vous accompagne dans cette étude en vous proposant différentes formes et structures du corps humain.
-      </h4>
-    </div>
 
     <div class="row">
       <div class="col-12">
@@ -110,14 +108,21 @@
           </label>
         </div><!-- project filter end -->
 
+        <blockquote>
+          <p>
+            L'anatomie humaine est l'étude du corps dans toutes ses composantes et selon différentes régions : la tête et le cou, la région dorsale et le système nerveux central, le thorax, l'abdomen, le bassin, les membres.
+            Véritable atlas du corps humain, l'anatomie détaille chaque organe, chaque os, etc., mais aussi leur position au travers de dizaines de planches portant sur le squelette, les muscles, le système cardio-vasculaire, nerveux ou lymphatique, les appareils digestif, respiratoire, reproducteur et urinaire. 
+            CACTUS NEGOCE vous accompagne dans cette étude en vous proposant différentes formes et structures du corps humain.
+          </p>
+        </blockquote>
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;tete-cerveau&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-tete-cerveau.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -125,7 +130,7 @@
                     Tête et Cerveau
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-tete-cerveau.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -134,8 +139,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;organes-sensoriels&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-yeux-oreilles.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -143,7 +148,7 @@
                     Organes Sensoriels: Yeux et Oreille
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-organes-sensorielles.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -152,8 +157,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;sys-respiratoires&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-systeme-respiratoire.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -161,7 +166,7 @@
                     Système Respiratoire, Cavité Nasale, Larynx
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-systeme-respiratoire.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -170,16 +175,16 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;sys-digestif&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-systeme-digestif.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    Système Digestif : foie, Pancréa, Estomac
+                    Système Digestif: foie, Pancréa, Estomac
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-systeme-digestif.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -188,8 +193,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;coeur&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-systeme-circulatoire.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -197,7 +202,7 @@
                     Le Coeur et le Système Circulatoire
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-systeme-circulatoire.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -206,8 +211,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;sys-urinaire&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-sys-urinaire.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -215,7 +220,7 @@
                     Système Urinaire: Vessien masculine, Rein
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-systeme-urinaire.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -224,8 +229,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;bassin&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-bassin-genital-masculin-et-feminin.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -233,7 +238,7 @@
                     Bassin feminin et masculin
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-bassins-feminin-et-masculin.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -242,8 +247,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;pelvis&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-pelvis-foetus.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -251,7 +256,7 @@
                     Pelvis avec foeutus
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-pelvis-foetus.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -260,16 +265,16 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;peau&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-peau.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    ECG
+                    Peau
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-peau.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -278,8 +283,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;torses&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-torse-humain.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -287,7 +292,7 @@
                     Torses humain
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-torse-humain.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -296,8 +301,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;musculature&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-musculature-de-la-tete.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -305,7 +310,7 @@
                     Musculature de la tête
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-musculature-tete.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -314,8 +319,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;muscles&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-muscles-epaules-bras-jambes.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -323,7 +328,7 @@
                     Muscles, Epaules, Bras, Jambes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-muscles-epaules-bras-jambes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -332,8 +337,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;squellettes&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-squelette.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -341,7 +346,7 @@
                     Squellettes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-squelettes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -350,8 +355,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;cv&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-colonne-vertebrale.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -359,7 +364,7 @@
                     Colonnes vertebrales
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-colonne-vertebrale.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -368,8 +373,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;genoux&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-genoux-epaules.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -377,7 +382,7 @@
                     Genoux et épaules
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-genoux-epaule.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -386,8 +391,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;sys-squelletique&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-sys-squelettique.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -395,7 +400,7 @@
                     Système squeletique
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-systeme-squelettique.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -404,8 +409,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;crane&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-crane-humain.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -413,7 +418,7 @@
                     Crâne Humain
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-crane-humain.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -422,8 +427,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;dentaire&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-modeles-dentaires.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -431,7 +436,7 @@
                     Modèles Dentaires
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-modeles-dentaires.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -440,8 +445,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;mea&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ma-modeles-economiques.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -449,7 +454,7 @@
                     Modèles Economiques d'anatomie humaine
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ma-modeles-economique-danatomie-humaine.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

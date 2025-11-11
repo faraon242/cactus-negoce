@@ -8,7 +8,7 @@
                 
                 <div class="logo">
                     <a class="d-block" href="#">
-                      <img  class="w-100" src="../images/cactus-logo.png" alt="" style="height: 70px;">
+                      <img  class="w-100" src="../images/cactus-negoce.png" alt="" style="height: 70px;">
                     </a>
                 </div><!-- logo end -->
 

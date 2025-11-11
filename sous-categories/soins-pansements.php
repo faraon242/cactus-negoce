@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Soins et pansements</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 
 <div class="body-inner">
 
@@ -36,15 +42,8 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <h4 class="section-title">
-        Retrouvez notre sélection de produits de soins et pansements. Destinés à répondre aussi bien aux besoins des particuliers qu’aux exigences des professionnels de santé, dans le souci de toujours vous offrir le meilleur rapport qualité/prix.
-      </h4>
-    </div>
-
     <div class="row">
       <div class="col-12">
-
         <div class="shuffle-btn-group">
           <label class="active" for="all">
             <input type="radio" name="shuffle-filter" id="all" value="all" checked="checked">Toutes
@@ -60,14 +59,17 @@
           </label>
           </div><!-- project filter end -->
 
+          <blockquote>
+            <p>Retrouvez notre sélection de produits de soins et pansements. Destinés à répondre aussi bien aux besoins des particuliers qu’aux exigences des professionnels de santé, dans le souci de toujours vous offrir le meilleur rapport qualité/prix.</p>
+          </blockquote>
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;bandages&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/sp-bandages.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -75,7 +77,7 @@
                     Bandages
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/sp-bandages.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -84,8 +86,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;soins&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/sp-soins.jpeg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -93,7 +95,7 @@
                     Soins
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/sp-soins.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -102,8 +104,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;accessoires&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/sp-accessoires.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -111,7 +113,7 @@
                     Accessoires
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/sp-accessoires.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

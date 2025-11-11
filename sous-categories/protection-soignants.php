@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Protection des soignants</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 
 <div class="body-inner">
 
@@ -35,15 +41,6 @@
 
 <section id="main-container" class="main-container">
   <div class="container text-center">
-
-    <div class="text-center mb-4">
-      <blockquote>
-        <p>
-          Le risque de contamination en milieu hospitalier se présente sous de multiples aspects. <br>
-          Voila pourquoi CACTSUS NEGOCE à pour objectif de vous accompagner en vous proposant toute une gamme d'articles et des vêtements appropriés de bonne qualité en milieu hospitalier et rien que pour le personnel soignant.
-        </p>
-      </blockquote>
-    </div>
 
     <div class="row">
       <div class="col-12">
@@ -79,12 +76,12 @@
           <label for="masques-pliable">
             <input type="radio" name="shuffle-filter" id="masques-pliable" value="masques-pliable">Masque de protection respiratoire plats pliables
           </label>
-          <label for="masques-elastique">
+          <!--label for="masques-elastique">
             <input type="radio" name="shuffle-filter" id="masques-elastique" value="masques-elastique">Masque à Elastique 1826 3M
-          </label>
-          <label for="gants">
+          </label-->
+          <!--label for="gants">
             <input type="radio" name="shuffle-filter" id="gants" value="gants">Gants
-          </label>
+          </label-->
           <label for="blouses">
             <input type="radio" name="shuffle-filter" id="blouses" value="blouses">Blouses
           </label>
@@ -120,14 +117,20 @@
           </label>
         </div><!-- project filter end -->
 
+        <blockquote>
+          <p>
+            Le risque de contamination en milieu hospitalier se présente sous de multiples aspects. <br>
+            Voila pourquoi CACTSUS NEGOCE à pour objectif de vous accompagner en vous proposant toute une gamme d'articles et des vêtements appropriés de bonne qualité en milieu hospitalier et rien que pour le personnel soignant.
+          </p>
+        </blockquote>
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;lunettes-protection&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-lunettes-de-protection.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -135,7 +138,7 @@
                     Lunettes de Protection
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-lunettes-de-protection.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -144,8 +147,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;ecrans-visiere&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-ecrans-a-visiere.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -153,7 +156,7 @@
                     Ecrans à visière
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-ecrans-a-visiere.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -162,8 +165,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;ecran-teti&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-ecrans-protection-teti.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -171,7 +174,7 @@
                     Ecran de protection TETI
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-ecrans-protection-teti.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -180,8 +183,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;ecran-protecteur&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-ecran-protecteur.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -189,7 +192,7 @@
                     Ecran protecteur
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-ecrans-protecteurs.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -198,8 +201,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;kit-lunettes&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-kit-lunettes.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -207,7 +210,7 @@
                     Kit de lunettes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-kit-lunettes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -216,8 +219,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;mhp&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-masque-haute-protection.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -225,7 +228,7 @@
                     Masque Haute protection
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-masque-haute-protection.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -234,8 +237,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;masques-filtrant&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-masques-filtrants.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -243,7 +246,7 @@
                     Masques Filtrants 99%
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-masques-filtrants.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -252,8 +255,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;masques-moule&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-masque-moule.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -261,7 +264,7 @@
                     Masque Moulé
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-masques-moule.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -270,8 +273,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;masques-pliable&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-masques-protection-respiratoire-plats-pliables.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -279,17 +282,17 @@
                     Masque de protection respiratoire plats pliables
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-masques-protection-respiratoire.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;masques-elastique&quot;]">
+          <!--div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;masques-elastique&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/egc.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -302,12 +305,12 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div-->
 
-          <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;gants&quot;]">
+          <!--div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;gants&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/egc.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -320,12 +323,12 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div-->
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;blouses&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-blouses.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -333,7 +336,7 @@
                     Blouses
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-blouses.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -342,8 +345,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;cvp&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-casaques-vestes-pantalons-non-tisses.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -351,7 +354,7 @@
                     Casaque, Veste et Pantalon non tissés
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-casaques-vestes-pantalons-non-tisses.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -360,8 +363,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;kit-visiteur&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-kits-habillage-visiteurs.jpeg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -369,7 +372,7 @@
                     Kit Habillage pour visiteur
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-kits-habillage-visiteurs.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -378,8 +381,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;serviettes&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-serviettes.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -387,7 +390,7 @@
                     Serviettes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-serviettes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -396,8 +399,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;charlottes&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-charlottes.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -405,7 +408,7 @@
                     Charlottes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-charlottes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -414,16 +417,16 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;couvres-chaussures&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-couvre-chaussure-jetable.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    Couvre Chaussures
+                    Couvres Chaussures
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-couvres-chaussures.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -432,8 +435,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;bavettes&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-bavettes.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -441,7 +444,7 @@
                     Bavettes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-bavettes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -450,8 +453,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;tcp&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-tabliers-casaques-pantalons.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -459,7 +462,7 @@
                     Tabliers, Casaques et Pantalons
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-tabliers-casaques-pantalons.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -468,16 +471,16 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;vestes-btn&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-vestes-boutons-pression.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    Veste à boutons-pression et pantalons
+                    Vestes à boutons-pression et pantalons
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-vestes-a-boutons-pression-et-pantalons.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -486,16 +489,16 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;veste-dentiste&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-vestes-pour-dentistes.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    Veste pour Dentistes
+                    Vestes pour Dentistes
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-vestes-pour-dentistes.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -504,8 +507,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;sabots&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/ps-sabots-chaussures-professionnelles-ultra-legeres.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -513,7 +516,7 @@
                     Sabots et Chaussures professionnelles Ultra-Legères
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/ps-sabots-chaussures-pro.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

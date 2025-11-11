@@ -52,14 +52,14 @@
         <div class="col-lg-6">
           <h3 class="column-title">Qui sommes-nous</h3>
           <p>
-            CACTUS Négoce est une entreprise spécialisée dans la distribution de matériel, consommables médicaux et de laboratoire. Elle a été fondée en 2003 par Monsieur Octave Boucka afin de répondre à un besoin réel en France et à l’étranger.
+            Cactus Négoce est une entreprise spécialisée dans la distribution de matériel, consommables médicaux et de laboratoire. Elle a été fondée en 2003 par Monsieur Octave Boucka afin de répondre à un besoin réel au Congo.
             L'objectif de Cactus Négoce est d’offrir des produits de qualité au prix le plus juste. Nous sommes en contact avec plus de 30 fournisseurs dont la qualité des produits est reconnue par tous. 
           </p>
           <blockquote><p>
             Notre transparence sur les produits et les prix  vous accompagnent dans votre processus de décision.
           </p></blockquote>
           <p>
-            CACTUS Négoce compte aujourd’hui plus de 25 collaborateurs qui sont à la disposition des clients afin d’améliorer la qualité commerciale. Cactus Négoce peut fournir pratiquement tous les produits qui couvrent les besoins quotidiens de toute antenne médicale, clinique, hôpitaux, laboratoire.
+            Cactus Négoce compte aujourd’hui plus de 25 collaborateurs qui sont à la disposition des clients afin d’améliorer la qualité commerciale. Cactus Négoce peut fournir pratiquement tous les produits qui couvrent les besoins quotidiens de toute antenne médicale, clinique, hôpitaux, laboratoire.
           </p>
 
         </div><!-- Col end -->

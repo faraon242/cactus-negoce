@@ -39,7 +39,6 @@
         <li><a href="tests-autres-page-2.php" class="page-link">2</a></li>
         <li><a href="tests-autres-page-3.php" class="page-link">3</a></li>
         <li><a href="tests-autres-page-4.php" class="page-link">4</a></li>
-        <li><a href="tests-autres-page-5.php" class="page-link">5</a></li>
       </ul>
     </nav>
 
@@ -508,17 +507,40 @@
       <div class="col-lg-5">
         <div id="page-slider" class="page-slider small-bg">
           <div class="item">
-            <img loading="lazy" class="img-fluid" src="../images/articles/tensiometre-exactophon.jpg" alt="project-image" style="height: 400px;" />
+            <img loading="lazy" class="img-fluid" src="../images/articles/lecteur-hemoglobine-mission-hb.jpg" alt="project-image" style="height: 400px;" />
           </div>
         </div><!-- Page slider end -->
       </div><!-- Slider col end -->
 
       <div class="col-lg-7">
-        <h3 class="column-title mrt-0">NOUVEAU TENSIOMETRE EXACTOPHON</h3>
-        <p>Référence : CN32723</p>
+        <h3 class="column-title mrt-0">LECTEUR D'HÉMOGLOBINE MISSION Hb</h3>
+        <p>Référence : CN24022</p>
         <p>
-          Sphygmomanomètre durable et élégant bénéficiant de la qualité et de la fiabilité des produits GIMA. L'EXACTOPHON est doté d'un manomètre fiable fixé sur une pièce en similicuir fixée à un brassard en lin hautement résistant à fermeture à pression. 
-          <br>Fabriqué en Italie: GIMA.
+          Détecte avec précision les niveaux de Hb et Hct
+          <br>Rapide
+          <br>- résultats hémoglobine (Hb) et hématocrite (Hct) en < 15 sec
+          <br>Précis
+          <br>- nécessite seulement 10 µL de sang capillaire ou veineux
+          <br>- résultats précis comparables aux analyseurs automatiques d’hématologie
+          <br>- ample plage de mesure Hb 4,5-25,6 g/dL avec plage Hct de 13-75%
+          <br>- mémoire jusqu’à 1 000 résultats
+          <br><br><b>Spécifications Techniques</b>
+          <br>- Méthode: photométrie par réflectance
+          <br>- Détection: principe Méthémoglobine
+          <br>- Temps pour résultats: < 15 secondes
+          <br>- Mémoire: 1 000 tests avec heure/date et numéro ID
+          <br>- Volume / type échantillon: 10 µL / sang entier capillaire et veineux
+          <br>- Plage de mesure Hb: 4,5 - 25,6 g/dL
+          <br>- Plage Hct: 13 - 75%
+          <br>- Longueurs d’onde: 525 nm
+          <br>- Calibrage: automatique
+          <br>- Hb précision dans l’espace d’une série: = 3%
+          <br>- Hb précision totale CV: = 3%
+          <br>- Précision: Hb 4.5 - 10 g/dL, ±0.4 g/dL; Hb 10 - 25.6 g/dL ± 4%
+          <br>- Source d’alimentation: 3 Batteries AAA ou Adaptateur CA sur demande
+          <br>- Durée batterie: 2700 tests ou 360 heures
+          <br>- Arrêt automatique: 8 minutes
+          <br>- Dimensions: 127x58x25 mm (5,0”x2,28”x0,09”)
         </p>
         </p>
       </div><!-- Content col end -->
@@ -530,16 +552,42 @@
       <div class="col-lg-5">
         <div id="page-slider" class="page-slider small-bg">
           <div class="item">
-            <img loading="lazy" class="img-fluid" src="../images/articles/tensiometre-gimatono.jpg" alt="project-image" style="height: 400px;" />
+            <img loading="lazy" class="img-fluid" src="../images/articles/analyseur-urine-gima.jpg" alt="project-image" style="height: 400px;" />
           </div>
         </div><!-- Page slider end -->
       </div><!-- Slider col end -->
 
       <div class="col-lg-7">
-        <h3 class="column-title mrt-0">STETHOSCOPE WAN TETE DOUBLE ADULTE</h3>
-        <p>Référence : CN32719</p>
+        <h3 class="column-title mrt-0">ANALYSEUR URINE GIMA</h3>
+        <p>Référence : CN24046</p>
         <p>
-          Tensiomètre économique avec manomètre chromé fixé sur le brassard, livré avec une bague de protection en caoutchouc. Brassard en nylon agrémenté d'une pièce en similicuir. Vessie à deux tubes sans latex pour adulte et poire standard sans latex. 
+          L’analyseur d’urine Gima est un instrument de haute précision et de haute technologie pour inspecter liniquement les urines.
+          <br><br>Paramètres analysés:
+          <br>- Glucose (GLU)
+          <br>- Bilirubine (BIL)
+          <br>- Gravité spécifique (SG)
+          <br>- PH
+          <br>- Corps cétoniques (KET)
+          <br>- Sang occulte (BLD)
+          <br>- Protéines (PRO)
+          <br>- Urobilinogène (URO)
+          <br>- Nitrite (NIT)
+          <br>- Leucocytes (LEU)
+          <br>- Acide ascorbique (VC)
+          <br><br><b>Spécifications Techniques</b>
+          <br>- Mode de fonctionnement: Phase unique
+          <br>- Langues: Italien et Anglais
+          <br>- Écran: 2,4”LCD, résolution: 320x240
+          <br>- Mémoire des données:
+          <br>- 500 exemples de données
+          <br>- Principe: Théorie des tests tricolore RGB
+          <br>- Interface de communication: Interface Micro USB, communication Bluetooth sans fils
+          <br>- Répétabilité: CV =1%
+          <br>- Stabilité: CV =1%
+          <br>- Mode d’enregistrement: écran LCD, stockage des données flash-ROM
+          <br>- Source d’alimentation: Batterie au lithium rechargeable 3,7 V, 1900 mAh comprise - Ordinateur hôte: DC 5 V, 1 A - Adaptateur: CA 100-240 V, 50/60 Hz
+          <br>- Plage du test: Voir le tableau dans l'image
+          <br>- Dimensions - Poids: 126x73,5xh 30 mm - 0,18 kg
         </p>
       </div><!-- Content col end -->
     </div><!-- Row end -->
@@ -552,7 +600,6 @@
         <li><a href="tests-autres-page-2.php" class="page-link">2</a></li>
         <li><a href="tests-autres-page-3.php" class="page-link">3</a></li>
         <li><a href="tests-autres-page-4.php" class="page-link">4</a></li>
-        <li><a href="tests-autres-page-5.php" class="page-link">5</a></li>
       </ul>
     </nav>
 

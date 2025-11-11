@@ -4,13 +4,13 @@
   <title>Cactus Négoce</title>
   <?php @include('../include/head.php'); ?>
 </head>
+<body>
 
 <style>
   .ax-img-fluid{
   height: 300px;
 }
 </style>
-<body>
 
 <div class="body-inner">
 
@@ -42,15 +42,6 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <blockquote>
-      <p>
-        Cactus Négoce est fier de vous accompagner dans le respect dans votre démarche de qualité et de contribuer ainsi à la protection de vos équipes.
-        <br>Vous trouverez dans cette rubrique, l’ensemble de nos équipements de protection individuelle.
-      </p>
-      </blockquote>
-    </div>
-
     <div class="row">
       <div class="col-12">
 
@@ -68,6 +59,13 @@
             <input type="radio" name="shuffle-filter" id="pe" value="pe">Protection de l'environnement
           </label>
         </div><!-- project filter end -->
+
+        <blockquote>
+          <p>
+            Cactus Négoce est fier de vous accompagner dans le respect dans votre démarche de qualité et de contribuer ainsi à la protection de vos équipes.
+            <br>Vous trouverez dans cette rubrique, l’ensemble de nos équipements de protection individuelle.
+          </p>
+        </blockquote>
 
 
         <div class="row shuffle-wrapper">

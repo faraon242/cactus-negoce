@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Bien être et aide à la vie</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 
 <div class="body-inner">
 
@@ -36,15 +42,6 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <blockquote>
-        <p>
-          Nous accordons la plus grande importance au confort des patients et des séniors.
-          Vous trouverez également dans cette rubrique nos appareils de massage et autres outils de relaxation.
-        </p>
-      </blockquote>
-    </div>
-
     <div class="row">
       <div class="col-12">
 
@@ -63,14 +60,20 @@
           </label>
         </div><!-- project filter end -->
 
+        <blockquote>
+          <p>
+            Nous accordons la plus grande importance au confort des patients et des séniors.
+            Vous trouverez également dans cette rubrique nos appareils de massage et autres outils de relaxation.
+          </p>
+        </blockquote>
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;amd&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/be-maintien-a-domicile.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -78,7 +81,7 @@
                     Autonomie - Maintien à domicile
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/be-maintien-a-domicile.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -87,8 +90,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;massage&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/be-massage-reeducation.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -96,7 +99,7 @@
                     Massage et rééducation
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/be-massage-reeducation.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -105,8 +108,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;cta&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/be-aromatherapie.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -114,7 +117,7 @@
                     Confort et Thérapies alternatives
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/be-confort-therapies-alternatives.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

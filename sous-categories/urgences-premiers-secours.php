@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Urgences et premiers secours</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>

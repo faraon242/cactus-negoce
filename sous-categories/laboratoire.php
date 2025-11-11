@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Laboratoire</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
@@ -10,6 +10,11 @@
 
 <?php @include('header.php'); ?>
 
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 <div id="banner-area" class="banner-area" style="background-image:url(../images/banner/categories-banner.jpg)">
   <div class="banner-text">
     <div class="container">
@@ -36,12 +41,6 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <h4 class="section-title">
-        Materiel et Réactifs nécessaires pour la réalisation de travaux de laboratoire.
-      </h4>
-    </div>
-
     <div class="row">
       <div class="col-12">
 
@@ -60,6 +59,10 @@
           </label>
         </div><!-- project filter end -->
 
+        <blockquote>
+          <p>Materiel et Réactifs nécessaires pour la réalisation de travaux de laboratoire.</p>
+        </blockquote>
+
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
@@ -67,7 +70,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;pesage&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/articles/pesage-laboratoire.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -85,7 +88,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;verrerie&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/articles/verrerie-de-laboratoire-gr.png" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -103,7 +106,7 @@
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;pma&quot;]">
             <div class="project-img-container">
               <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+                <img class="ax-img-fluid img-fluid" src="../images/articles/petits-materiels-laboratoire.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">

@@ -272,9 +272,9 @@
           Fabricant ECG: BTL
           <br>Modèle: 08 MT-MD
           <br><br>Fabricant ECG: GIMA
-          Modèle: CardioGIMA 6M, colour
+          <br>Modèle: CardioGIMA 6M, colour
           <br><br>Fabricant ECG: PROGETTI
-          Modèle: EPG 612
+          <br>Modèle: EPG 612
           <br><br>Type: roll
           <br>Largeur: 112 mm
           <br>Longueur: 23 m

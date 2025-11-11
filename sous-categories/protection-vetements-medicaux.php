@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Protection et vêtements médicaux</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 
 <div class="body-inner">
 
@@ -36,12 +42,6 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <h4 class="section-title">
-        Elaborée dans le souci d’améliorer le quotidien des professionnels de santé, notre sélection de vêtements médicaux saura répondre à vos attentes, en vous proposant la qualité au meilleur prix. Vous trouverez également un choix conséquent d’équipements de protection médicale.
-      </h4>
-    </div>
-
     <div class="row">
       <div class="col-12">
 
@@ -60,14 +60,18 @@
           </label>
           </div><!-- project filter end -->
 
+          <blockquote>
+            <p>Elaborée dans le souci d’améliorer le quotidien des professionnels de santé, notre sélection de vêtements médicaux saura répondre à vos attentes, en vous proposant la qualité au meilleur prix. Vous trouverez également un choix conséquent d’équipements de protection médicale.</p>
+          </blockquote>
+
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;vj&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/pvm-vetements-jetables.avif" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -75,7 +79,7 @@
                     Vêtements jetables
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/pvm-vetements-jetables.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -84,8 +88,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;vc&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/pvm-vetements-cotons.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -93,7 +97,7 @@
                     Vêtements en coton
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/pvm-vetements-coton.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -102,8 +106,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;gants&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/pvm-gants-accessoires.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -111,7 +115,7 @@
                     Gants et autres acessoires
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/pvm-gants-autres-accessoires.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

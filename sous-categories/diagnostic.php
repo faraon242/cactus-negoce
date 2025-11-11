@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - Diagnostic</title>
   <?php @include('../include/head.php'); ?>
 </head>
 
@@ -43,15 +43,6 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <blockquote>
-        <p>
-          Du diagnostic généraliste au diagnostic spécialisé, retrouvez les appareils et outils dont vous avez besoin. 
-          Cactus Négoce vous propose ainsi, des spéculums, stéthoscopes, tensiomètres et autres otoscopes. Mais également une gamme complète de tests rapides, ainsi que des ECG.
-        </p>
-      </blockquote>
-    </div>
-
     <div class="row">
       <div class="col-12">
 
@@ -63,7 +54,7 @@
             <input type="radio" name="shuffle-filter" id="ecg" value="ecg">ECG
           </label>
           <label for="oos">
-            <input type="radio" name="shuffle-filter" id="oos" value="oos">Oto, Ophtalmoscope
+            <input type="radio" name="shuffle-filter" id="oos" value="oos">Oto/Ophtalmoscope
           </label>
           <label for="pesage">
             <input type="radio" name="shuffle-filter" id="pesage" value="pesage">Pesage
@@ -84,6 +75,13 @@
             <input type="radio" name="shuffle-filter" id="tests" value="tests">Tests et autres
           </label>
         </div><!-- project filter end -->
+
+        <blockquote>
+          <p>
+            Du diagnostic généraliste au diagnostic spécialisé, retrouvez les appareils et outils dont vous avez besoin. 
+            Cactus Négoce vous propose ainsi, des spéculums, stéthoscopes, tensiomètres et autres otoscopes. Mais également une gamme complète de tests rapides, ainsi que des ECG.
+          </p>
+        </blockquote>
 
 
         <div class="row shuffle-wrapper">
@@ -115,7 +113,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title" style="color: white;">
-                    Oto/Ophtalmo/Scope
+                    Oto/OphtalmoScope
                   </h3>
                   <p class="project-cat">
                     <a href="../articles/ophtamoscope-page-1.php">VOIR PLUS</a>

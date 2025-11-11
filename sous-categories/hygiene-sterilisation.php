@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Cactus Négoce</title>
+  <title>Cactus Négoce - HYGIENE ET STERILISATION</title>
   <?php @include('../include/head.php'); ?>
 </head>
 <body>
+
+<style>
+  .ax-img-fluid{
+  height: 300px;
+}
+</style>
 
 <div class="body-inner">
 
@@ -36,13 +42,6 @@
 <section id="main-container" class="main-container">
   <div class="container text-center">
 
-    <div class="text-center mb-4">
-      <h4 class="section-title">
-        Notion capitale, l’hygiène revêt une importance particulièrement forte dans le domaine médical.
-        Vous trouverez dans cette rubrique, les produits nécessaires au nettoyage et la désinfection de vos locaux et instruments professionnels, ainsi que des solutions d’hygiène individuelle.
-      </h4>
-    </div>
-
     <div class="row">
       <div class="col-12">
 
@@ -64,14 +63,20 @@
           </label>
           </div><!-- project filter end -->
 
+          <blockquote>
+            <p>
+              Notion capitale, l’hygiène revêt une importance particulièrement forte dans le domaine médical.
+              Vous trouverez dans cette rubrique, les produits nécessaires au nettoyage et la désinfection de vos locaux et instruments professionnels, ainsi que des solutions d’hygiène individuelle.
+            </p>
+          </blockquote>
 
         <div class="row shuffle-wrapper">
           <div class="col-1 shuffle-sizer"></div>
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;alcool&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/hs-alcool.webp" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -79,7 +84,7 @@
                     Alcool
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/hs-alcools.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -88,8 +93,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;gel&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/hs-gels-antibacterien.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -97,7 +102,7 @@
                     Gels antibactérien, solution hydroalcooliques
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/hs-gels-antibacterien-solutions-hydroalcoliques.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -106,8 +111,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;desinfection&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/hs-desinfection.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -115,7 +120,7 @@
                     Désinfection/Stérilis
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/hs-desefection-sterilis.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>
@@ -124,8 +129,8 @@
 
           <div class="col-lg-4 col-md-6 shuffle-item" data-groups="[&quot;draps&quot;]">
             <div class="project-img-container">
-              <a class="gallery-popup" href="images/projects/project3.jpg">
-                <img class="img-fluid" src="../images/articles/egc.webp" alt="project-image">
+              <a class="gallery-popup" href="#">
+                <img class="ax-img-fluid" src="../images/articles/hs-draps-dexamen.jpg" alt="project-image">
               </a>
               <div class="project-item-info">
                 <div class="project-item-info-content">
@@ -133,7 +138,7 @@
                     Draps d'examen
                   </h3>
                   <p class="project-cat">
-                    <a href="../articles/projects-single.php">VOIR PLUS</a>
+                    <a href="../articles/hs-draps-d-examen.php">VOIR PLUS</a>
                   </p>
                 </div>
               </div>

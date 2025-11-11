@@ -5,7 +5,7 @@
   <title>Cactus Négoce</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
-  <link rel="icon" type="image/png" href="images/cactus-logo.png">
+  <link rel="icon" type="image/png" href="images/cactus-negoce.png">
   <!-- Bootstrap -->
   <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
   <!-- FontAwesome -->
@@ -85,8 +85,8 @@
     <div class="container">
         <div class="box-slider-content">
           <div class="box-slider-text">
-              <h2 class="box-slide-title">Plusieurs années d'expérience</h2>
-              <h3 class="box-slide-sub-title">Dans la distribution de matériel, consommables médicaux et de laboratoire</h3>
+              <h2 class="box-slide-title">Votre partenaire santé de confiance.</h2>
+              <h3 class="box-slide-sub-title">Sécurité et performance : des consommables de laboratoire répondant aux normes les plus strictes.</h3>
               <p class="box-slide-description">
                 <!-- --> 
               </p>
@@ -103,8 +103,8 @@
         <div class="container">
           <div class="box-slider-content">
               <div class="box-slider-text">
-                <h2 class="box-slide-title">Quand les services comptent</h2>
-                <h3 class="box-slide-sub-title">Votre choix est simple</h3>
+                <h2 class="box-slide-title">Fournitures médicales, confiance assurée.</h2>
+                <h3 class="box-slide-sub-title">La qualité au service de votre santé. Matériel et consommables de laboratoire de pointe.</h3>
                 <p class="box-slide-description"></p>
                 <p><a href="about.php" class="slider btn btn-primary" aria-label="about-us">EN SAVOIR PLUS SUR NOUS</a></p>
               </div>
@@ -120,7 +120,7 @@
         <div class="row">
           <div class="col-md-8 text-center text-md-left">
               <div class="call-to-action-text">
-                <h3 class="action-title">Nous comprenons vos besoins en fournitures et produits médicaux</h3>
+                <h3 class="action-title">Ne perdez plus de temps : des solutions à portée de main, tout de suite.</h3>
               </div>
           </div><!-- Col end -->
         </div><!-- row end -->
@@ -142,13 +142,13 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="categories/sous-categories.php" class="latest-post-img">
+                <a href="sous-categories/qhse.php" class="latest-post-img">
                     <img loading="lazy" class="img-fluid" src="images/categories/qhse.jpg" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="categories/sous-categories.php" class="d-inline-block">QHSE/EQUIPEMENTS INDIVIDUELS</a>
+                    <a href="sous-categories/qhse.php" class="d-inline-block">QHSE/EQUIPEMENTS INDIVIDUELS</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -157,13 +157,13 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="categories/sous-categories.php" class="latest-post-img">
+                <a href="sous-categories/diagnostic.php" class="latest-post-img">
                     <img loading="lazy" class="img-fluid" src="images/categories/diagnostic.jpg" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="categories/sous-categories.php" class="d-inline-block">DIAGNOSTIC</a>
+                    <a href="sous-categories/diagnostic.php" class="d-inline-block">DIAGNOSTIC</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -172,13 +172,13 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="categories/sous-categories.php" class="latest-post-img">
+                <a href="sous-categories/gynecologie.php" class="latest-post-img">
                     <img loading="lazy" class="img-fluid" src="images/categories/gynecologie.jpg" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="categories/sous-categories.php" class="d-inline-block">GYNECOLOGIE</a>
+                    <a href="sous-categories/gynecologie.php" class="d-inline-block">GYNECOLOGIE</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -187,13 +187,13 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="categories/sous-categories.php" class="latest-post-img">
+                <a href="sous-categories/instruments-medicaux.php" class="latest-post-img">
                     <img loading="lazy" class="img-fluid" src="images/categories/instruments-medicaux.jpg" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="categories/sous-categories.php" class="d-inline-block">INSTRUMENTS MEDICAUX ET CHIRURGICAUX</a>
+                    <a href="sous-categories/instruments-medicaux.php" class="d-inline-block">INSTRUMENTS MEDICAUX ET CHIRURGICAUX</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -202,13 +202,13 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="categories/sous-categories.php" class="latest-post-img">
+                <a href="sous-categories/laboratoire.php" class="latest-post-img">
                     <img loading="lazy" class="img-fluid" src="images/categories/laboratoire.webp" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="categories/sous-categories.php" class="d-inline-block">LABORATOIRE </a>
+                    <a href="sous-categories/laboratoire.php" class="d-inline-block">LABORATOIRE </a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
@@ -217,13 +217,13 @@
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="latest-post">
               <div class="latest-post-media">
-                <a href="categories/sous-categories.php" class="latest-post-img">
+                <a href="sous-categories/mobilier-medical.php" class="latest-post-img">
                     <img loading="lazy" class="img-fluid" src="images/categories/mobilier-medical.jpg" alt="img" style="width: 350px; height: 250px;">
                 </a>
               </div>
               <div class="post-body">
                 <h4 class="post-title">
-                    <a href="categories/sous-categories.php" class="d-inline-block">MOBILIER MEDICAL</a>
+                    <a href="sous-categories/mobilier-medical.php" class="d-inline-block">MOBILIER MEDICAL</a>
                 </h4>
               </div>
           </div><!-- Latest post end -->
